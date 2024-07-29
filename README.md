@@ -7,7 +7,7 @@ A python-based real-time system monitoring tool
 
 ## Screenshots
 
-![App Screenshot](ss.png)
+![App Screenshot](ss_shantanu.png)
 
 
   
